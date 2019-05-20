@@ -1,3 +1,8 @@
+# 수들의 합 2
+# url : https://www.acmicpc.net/problem/2003
+# ref : https://gist.github.com/Baekjoon/9cac4b8e2d4e0310dec2
+# desc:
+
 from sys import stdin, stdout
 
 n, m = map(int, stdin.readline().split())
